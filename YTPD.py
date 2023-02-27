@@ -2,7 +2,6 @@
 # Author: hearbrckAcdmy
 # Description: A script to download a YouTube playlist as MP3 files.
 # Version: 1.0
-# Last Updated: February 25, 2023
 
 import os
 import subprocess
